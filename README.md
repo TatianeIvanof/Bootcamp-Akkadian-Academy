@@ -16,7 +16,7 @@ Este repositório contém o material do curso de Análise de Dados, estruturado 
 
 - **Introdução ao Python para análise de dados**
   - Neste módulo, foi necessário realizar um projeto prático utilizando Python.
-      - O código desenvolvido para este projeto pode ser encontrado na pasta 'nome_da_pasta' neste repositório: [nome_do_arquivo](caminho/para/o/arquivo/no/repositório).
+      - O código desenvolvido para este projeto pode ser encontrado na pasta 'Projeto' neste repositório: [Análise_de_Vendas_de_E_commerce](Análise_de_Vendas_de_E_commerce.ipynb).
 
 - **Exploração de plataformas de análise de dados como Excel e Power BI**
  
