@@ -15,6 +15,9 @@ Este repositório contém o material do curso de Análise de Dados, estruturado 
 ### Módulo 2: Ferramentas e Plataformas
 
 - **Introdução ao Python para análise de dados**
+  - Neste módulo, foi necessário realizar um projeto prático utilizando Python.
+      - O código desenvolvido para este projeto pode ser encontrado na pasta 'nome_da_pasta' neste repositório: [nome_do_arquivo](caminho/para/o/arquivo/no/repositório).
+
 - **Exploração de plataformas de análise de dados como Excel e Power BI**
  
 ### Módulo 3: Coleta e Limpeza de Dados
