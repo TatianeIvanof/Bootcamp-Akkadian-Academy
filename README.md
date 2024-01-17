@@ -16,9 +16,11 @@ Este repositório contém o material do curso de Análise de Dados, estruturado 
 
 - **Introdução ao Python para análise de dados**
   - Neste módulo, foi necessário realizar um projeto prático utilizando Python.
-      - O código desenvolvido para este projeto pode ser encontrado na pasta 'Projeto' neste repositório: [Análise_de_Vendas_de_E_commerce.ipynb](https://github.com/TatianeIvanof/Bootcamp-Akkadian-Academy/blob/main/Projeto/An%C3%A1lise_de_Vendas_de_E_commerce.ipynb).
+      - O código desenvolvido para este projeto pode ser encontrado na pasta 'Projeto/Python' neste repositório: [Análise_de_Vendas_de_E_commerce.ipynb](https://github.com/TatianeIvanof/Bootcamp-Akkadian-Academy/blob/main/Projeto/An%C3%A1lise_de_Vendas_de_E_commerce.ipynb).
 
 - **Exploração de plataformas de análise de dados como Excel e Power BI**
+  - Neste módulo, foi necessário realizar um projeto prático utilizando PowerBi.
+      - Foi utilizado um arquivo Excel onde tive que realizar algumas etapas como: Importação e Preparação dos Dados, Tratamento dos Dados com Power Query, Criação de Medidas e Análises com DAX, Visualização de Dados e Criação de Relatórios e Desenvolvimento de um Dashboard Consolidado, a visualização do projeto prático pode ser encontrado na pasta 'Projeto/PowerBi' neste repositório: [Análise_de_Vendas_de_E_commerce.pbix]
  
 ### Módulo 3: Coleta e Limpeza de Dados
 
